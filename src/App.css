@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;  
+}
+
+.card-body-stars {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
